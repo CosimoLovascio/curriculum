@@ -42,11 +42,11 @@ _Agile Lab_, Full Remote | Giu 2018 – Oggi
         e affidabilità.
     </li>
     <li>
-        Data Migration Solution – Progettazione e sviluppo di processi di migrazione basati su Spark su Amazon EMR per 
+        Data Migration Solution – Progettazione e sviluppo di processi Spark di migrazione dati su Amazon EMR per 
         integrare i dati del Distribution System Operator in una piattaforma Data Mesh, migliorando accessibilità e governance.
     </li>
     <li>
-        ETL Batch Processing – Implementazione del processo end-to-end di ETL Spark per l’estrazione e l’aggregazione 
+        ETL Batch Processing – Implementazione di un processo Spark per l’estrazione e l’aggregazione 
         di dati da S3 e SAP HANA (via HTTP), utilizzando una data platform microservices-based sviluppata in Java Spring Boot.
     </li>
 </ul>
@@ -61,13 +61,13 @@ _Agile Lab_, Full Remote | Giu 2018 – Oggi
 <div class="timeline-item"> 
 <ul class="list-disc list-outside space-y-2">
     <li>
-        Data Platform Engineering – Sviluppo di una piattaforma orientata al Data Mesh basata sui principi del 
+        Data Platform Engineering – Sviluppo di una Data Mesh platform basata sui principi del 
         Domain-Driven Design, con forte attenzione alle pratiche DevOps, all’architettura API-driven e alla data governance. 
         Sviluppo di un SDK scritto in Scala per standardizzare l’esposizione dei dati e integrarli con i processi Spark batch 
         e streaming.
     </li>
     <li>    
-        Processing Framework Development - DProgettazione e sviluppo di un framework di elaborazione dati basato su 
+        Processing Framework Development - Progettazione e sviluppo di un framework di elaborazione dati basato su 
         Apache Spark, per l'ingestion e l'output dei dati verso HBase e HDFS in un ambiente Cloudera. 
         Le librerie core sono state implementate in Scala, seguendo i principi della programmazione funzionale.
     </li>

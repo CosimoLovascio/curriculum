@@ -6,9 +6,9 @@
 <div class="space-y-4">
     <ul class="list-disc list-inside space-y-1">
         <li>Python / Scala</li>
-        <li>Apache Spark, SQL</li>
+        <li>Apache Spark</li>
         <li>Azure Synapse Analytics</li>
-        <li>Data Mesh Architecture</li>
+        <li>Databricks</li>
         <li>Platform Engineering</li>
     </ul>
 </div>
